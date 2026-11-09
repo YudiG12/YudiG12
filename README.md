@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Yudi Ganeko, Senior Backend Engineer. AI, payments and order systems at scale. 120K on YouTube." width="100%"></p>
+<p align="center"><img src="assets/header.png" alt="Yudi Ganeko, Senior Backend Engineer. AI, payments and order systems at scale. 120K on YouTube." width="100%"></p>
 
 <p align="center">
   <em>Senior Backend Engineer · 🌎 Worldwide · Tech Content Creator</em>
